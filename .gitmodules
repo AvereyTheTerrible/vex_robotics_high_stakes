@@ -1,0 +1,3 @@
+[submodule "hardware/cad/VEX-CAD-Inventor"]
+	path = hardware/cad/VEX-CAD-Inventor
+	url = https://github.com/VEX-CAD/VEX-CAD-Inventor.git
