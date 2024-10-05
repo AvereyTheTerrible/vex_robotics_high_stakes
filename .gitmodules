@@ -1,3 +1,6 @@
 [submodule "hardware/cad/VEX-CAD-Inventor"]
 	path = hardware/cad/VEX-CAD-Inventor
 	url = https://github.com/VEX-CAD/VEX-CAD-Inventor.git
+[submodule "hardware/cad/robpros_cad_lib"]
+	path = hardware/cad/robpros_cad_lib
+	url = https://github.com/AvereyTheTerrible/robpros_cad_lib.git
